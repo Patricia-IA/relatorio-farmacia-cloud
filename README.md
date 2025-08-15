@@ -40,5 +40,5 @@ Com potencial de redução de custos entre 10-25% (gastos em nuvem).
 A implementação de ferramentas na empresa Abstergo Industries tem como esperado reduzir custos com TI, com AWS Lambda é paga apenas pelo tempo que o código é executado, sem ter custo de servidor parado e reduz custos de equipe de TI, o uso do Amazon S3 possibilita um armazenamento mais barato que servidores locais, criando um controle de acesso para proteger dados sensíveis como o histórico de clientes, e o uso do AWS Cost Explorer mostra detalhadamente onde o dinheiro está sendo gasto na nuvem, apontando serviços pagos mas pouco ou nada utilizados. O uso dessas ferramentas aumentará a eficiência e produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 # Assinatura do responsável pelo projeto
-Patrícia da Silva Olveira
+Patrícia da Silva Oliveira
 
